@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there! I'm Nishan 👋  
+
+[![GitHub Nis-Han](https://img.shields.io/github/followers/Nis-Han?label=follow&style=social)](https://github.com/Nis-Han)
+[![Linkedin: nishan100](https://img.shields.io/badge/-Nishan%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishan100/)](https://www.linkedin.com/in/nishan100/)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/Retarded_Ape.svg)](https://codeforces.com/profile/Retarded_Ape)
+
+
+[![Nishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nis-Han&count_private=true&show_icons=true&theme=calm)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nis-han&layout=compact&theme=calm)]()
+
+
 
 <!--
 **Nis-Han/Nis-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
