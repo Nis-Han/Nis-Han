@@ -4,13 +4,35 @@
 [![GitHub Nis-Han](https://img.shields.io/github/followers/Nis-Han?label=follow&style=social)](https://github.com/Nis-Han)
 [![Linkedin: nishan100](https://img.shields.io/badge/-Nishan%20Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishan100/)](https://www.linkedin.com/in/nishan100/)
 
-### My Github Stats
-[![Nishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nis-Han&custom_title=Nishan's%20GitHub%20statistics&count_private=true&show_icons=true&theme=vision-friendly-dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nis-han&layout=compact&theme=vision-friendly-dark)]()
+### My Stats:
+<div align="center">
+<a href="https://github.com/Nis-Han">
+    <img
+    src="https://github-readme-stats.vercel.app/api?username=Nis-Han&custom_title=Nishan's%20GitHub%20statistics&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+    alt="My Github stats"
+    height="205"
+    />
+</a><a href="https://github.com/Nis-Han">
+        <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nis-han&layout=compact&theme=vision-friendly-dark&hide_border=true"
+        alt="My Language stats"
+        height="200"
+        />
+    </a>
+</div>
 
-### My DSA Skill Stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Retarded_Ape&theme=dark)
-![Nishan's Leetcode Stats](https://leetcard.jacoblin.cool/Fried_Potato?ext=contest)
+<div align = "center">
+<a href = "https://codeforces.com/profile/Retarded_Ape"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Retarded_Ape&theme=dark" alt="Codeforces" width="360px"/></a><a href = "https://leetcode.com/Nis_Han/"><img src="https://leetcard.jacoblin.cool/Nis_Han?ext=contest" alt="Leetcode" width="375px"></a>
+</div>
+
+<div align="center">
+<a href="https://github.com/Nis-Han">
+    <img
+    src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Nis-Han&theme=vision-friendly-dark&hide_border=true"
+    alt="My GitHub streak stats"
+    />
+</a> 
+</div>
 <!--
 **Nis-Han/Nis-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
