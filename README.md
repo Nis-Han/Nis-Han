@@ -41,6 +41,7 @@
     </a>
 </div>
 
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Nis-Han&theme=react-dark)
 
 <!--
 **Nis-Han/Nis-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
