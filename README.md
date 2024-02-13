@@ -12,18 +12,9 @@
 - 📫 Want to chat?, don't shy away from [scheduling a meet!](https://cal.com/nis-han/hello-stranger)
 
 ### Here are some of my stats 😄
-<div align="center">
-<a href="https://github.com/Nis-Han">
-    <img
-    src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Nis-Han&theme=vision-friendly-dark&hide_border=true"
-    alt="My GitHub streak stats"
-    />
-</a> 
-</div>
 
-<div align = "center">
-<a href = "https://codeforces.com/profile/Retarded_Ape"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Retarded_Ape&theme=dark" alt="Codeforces" width="360px"/></a><a href = "https://leetcode.com/Nis_Han/"><img src="https://leetcard.jacoblin.cool/Nis_Han?ext=contest" alt="Leetcode" width="375px"></a>
-</div>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Nis-Han&theme=react-dark)
 
 <div align="center">
 <a href="https://github.com/Nis-Han">
@@ -41,7 +32,25 @@
     </a>
 </div>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Nis-Han&theme=react-dark)
+
+<div align="center">
+<a href="https://github.com/Nis-Han">
+    <img
+    src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Nis-Han&theme=vision-friendly-dark&hide_border=true"
+    alt="My GitHub streak stats"
+    />
+</a> 
+</div>
+
+
+<div align = "center">
+    <!--
+<a href = "https://codeforces.com/profile/Retarded_Ape"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Retarded_Ape&theme=dark" alt="Codeforces" width="360px"/>
+-->
+</a><a href = "https://leetcode.com/Nis_Han/"><img src="https://leetcard.jacoblin.cool/Nis_Han?ext=contest" alt="Leetcode" width="375px"></a>
+</div>
+
+
 
 <!--
 **Nis-Han/Nis-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
