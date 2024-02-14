@@ -44,10 +44,8 @@
 
 
 <div align = "center">
-    <!--
-<a href = "https://codeforces.com/profile/Retarded_Ape"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Retarded_Ape&theme=dark" alt="Codeforces" width="360px"/>
--->
-</a><a href = "https://leetcode.com/Nis_Han/"><img src="https://leetcard.jacoblin.cool/Nis_Han?ext=contest" alt="Leetcode" width="375px"></a>
+    
+<a href = "https://codeforces.com/profile/Retarded_Ape"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Retarded_Ape&theme=dark" alt="Codeforces" width="360px"/></a><a href = "https://leetcode.com/Nis_Han/"><img src="https://leetcard.jacoblin.cool/Nis_Han?ext=contest" alt="Leetcode" width="375px"></a>
 </div>
 
 
